@@ -396,6 +396,14 @@ export default function Portfolio() {
               repoUrl="https://github.com/vimal0156/AlgoStockGPT-AI"
             />
 
+            <ProjectCard
+              title="QuantumTrade Nexus"
+              description="Advanced Trading Intelligence Platform - Comprehensive financial analysis toolkit with 15+ technical indicators, algorithmic strategies, and real-time market intelligence. Features include market scanner, custom signals, advanced trading tools, and trading strategies with backtesting capabilities. Supports multiple data sources including Yahoo Finance and online APIs."
+              tags={["Python", "Streamlit", "Pandas", "TA-Lib", "Algorithmic Trading", "Technical Analysis"]}
+              image="/QuantumTrade-Nexus.png"
+              repoUrl="https://github.com/vimal0156/QuantumTrade-Nexus"
+            />
+
           </div>
         </div>
       </section>

@@ -93,6 +93,15 @@
       <sub>Algorithmic Trading System</sub>
     </td>
   </tr>
+  <tr>
+    <td align="center" width="33%">
+      <img src="public/QuantumTrade-Nexus.png" alt="QuantumTrade Nexus" width="100%"/>
+      <br/>
+      <b>QuantumTrade Nexus</b>
+      <br/>
+      <sub>Advanced Trading Intelligence Platform</sub>
+    </td>
+  </tr>
 </table>
 
 </div>
